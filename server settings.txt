@@ -1,0 +1,7 @@
+=================================================
+DO NOT REMOVE ANY SETTINGS, OR CHANGE THEIR ORDER
+=================================================
+
+client ip: 192.168.0.13
+client port: 47812
+send hz: 120

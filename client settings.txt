@@ -1,0 +1,6 @@
+=================================================
+DO NOT REMOVE ANY SETTINGS, OR CHANGE THEIR ORDER
+=================================================
+
+listen port: 47812
+allowed server ip: any
